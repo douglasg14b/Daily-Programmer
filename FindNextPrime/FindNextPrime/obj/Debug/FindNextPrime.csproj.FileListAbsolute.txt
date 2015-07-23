@@ -1,0 +1,9 @@
+k:\users\douglasg14b\documents\visual studio 2013\Projects\FindNextPrime\FindNextPrime\bin\Debug\FindNextPrime.exe.config
+k:\users\douglasg14b\documents\visual studio 2013\Projects\FindNextPrime\FindNextPrime\bin\Debug\FindNextPrime.exe
+k:\users\douglasg14b\documents\visual studio 2013\Projects\FindNextPrime\FindNextPrime\bin\Debug\FindNextPrime.pdb
+k:\users\douglasg14b\documents\visual studio 2013\Projects\FindNextPrime\FindNextPrime\obj\Debug\FindNextPrime.csprojResolveAssemblyReference.cache
+k:\users\douglasg14b\documents\visual studio 2013\Projects\FindNextPrime\FindNextPrime\obj\Debug\FindNextPrime.exe
+k:\users\douglasg14b\documents\visual studio 2013\Projects\FindNextPrime\FindNextPrime\obj\Debug\FindNextPrime.pdb
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\FindNextPrime\FindNextPrime\bin\Debug\FindNextPrime.exe.config
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\FindNextPrime\FindNextPrime\obj\Debug\FindNextPrime.exe
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\FindNextPrime\FindNextPrime\obj\Debug\FindNextPrime.pdb

@@ -1,0 +1,6 @@
+k:\users\douglasg14b\documents\visual studio 2013\Projects\UnitConversion\UnitConversion\bin\Debug\UnitConversion.exe.config
+K:\Users\Douglasg14b\Documents\Visual Studio 2013\Projects\UnitConversion\UnitConversion\bin\Debug\UnitConversion.exe
+K:\Users\Douglasg14b\Documents\Visual Studio 2013\Projects\UnitConversion\UnitConversion\bin\Debug\UnitConversion.pdb
+K:\Users\Douglasg14b\Documents\Visual Studio 2013\Projects\UnitConversion\UnitConversion\obj\Debug\UnitConversion.csprojResolveAssemblyReference.cache
+K:\Users\Douglasg14b\Documents\Visual Studio 2013\Projects\UnitConversion\UnitConversion\obj\Debug\UnitConversion.exe
+K:\Users\Douglasg14b\Documents\Visual Studio 2013\Projects\UnitConversion\UnitConversion\obj\Debug\UnitConversion.pdb

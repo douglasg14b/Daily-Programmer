@@ -1,0 +1,7 @@
+k:\users\douglasg14b\documents\visual studio 2013\Projects\SodaExercise\SodaExercise\bin\Debug\SodaExercise.exe.config
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\SodaExercise\SodaExercise\bin\Debug\SodaExercise.exe.config
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\SodaExercise\SodaExercise\bin\Debug\SodaExercise.exe
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\SodaExercise\SodaExercise\bin\Debug\SodaExercise.pdb
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\SodaExercise\SodaExercise\obj\Debug\SodaExercise.csprojResolveAssemblyReference.cache
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\SodaExercise\SodaExercise\obj\Debug\SodaExercise.exe
+K:\Users\Douglasg14b\Documents\Programming\Daily Programmer\SodaExercise\SodaExercise\obj\Debug\SodaExercise.pdb
